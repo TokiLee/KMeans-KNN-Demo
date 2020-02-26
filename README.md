@@ -2,8 +2,7 @@
 coded in Jupyter Notebook v5.7.4
 
 ### Sources
-Pyhon Machine Learning achine Learning and Deep Learning with Python, Scikit, and TensorFlow, Raschka and Mirjalili, 
-    Packt Publishing, 2018, pp 101-104, 205-209, 349-363
+Pyhon Machine Learning achine Learning and Deep Learning with Python, Scikit, and TensorFlow, Raschka and Mirjalili, Packt Publishing, 2018, pp 101-104, 205-209, 349-363
 
 
 ### HOW TO RUN THIS PROGRAM
